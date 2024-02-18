@@ -17,6 +17,7 @@ To: <affected team>
 Subject: Security Advisory concerning  a critical vulnerability has surfaced
 
 Hello John Doe,
+
 AIG Cyber & Information Security Team would like to inform you that a recent Apache Log4j software vulnerability has been discovered in the security community that may affect Product Development Staging Environment infrastructure.
 
 Vulnerability Overview:
