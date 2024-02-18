@@ -8,8 +8,9 @@ In this task, you will be asked to review some recent publications from the Cybe
 After reviewing the publications, you will then need to draft an email to inform the relevant infrastructure owner at AIG of the seriousness of the vulnerability that has been reported. 
 </br>
 <h2>Task 1: </h2>
-<br> Respond to the Apache Log4j zero-day vulnerability that was released to the public by advising affected teams of the vulnerability. 
-Below is the email I created to advise the affected teams. </br>
+<br> Respond to the Apache Log4j zero-day vulnerability that was released to the public by advising affected teams of the vulnerability.</br> 
+
+<h3>Below is the email I created to advise the affected teams. </h3>
 
 <br>From: AIG Cyber & Information Security Team
 To: <affected team>
